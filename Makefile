@@ -1,1 +1,2 @@
-make -f /Day_1/Makefile
+all:
+        make -f /Day_1/Makefile
